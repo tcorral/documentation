@@ -14,6 +14,7 @@ locales:
       de: "german"
       ru: "russian"
       fr: "french"
+      es: "spanish"
     nav:
       hoodieverse: "Hoodieverse"
       start: "Let's start"
@@ -72,6 +73,7 @@ locales:
       de: "german"
       ru: "russian"
       fr: "french"
+      es: "spanish"
     nav:
       hoodieverse: "Hoodieverse"
       start: "Let's start"
@@ -130,6 +132,7 @@ locales:
       de: "deutsch"
       ru: "russisch"
       fr: "französisch"
+      es: "spanisch"
     nav:
       hoodieverse: "Hoodieverse"
       start: "Los geht's"
@@ -190,6 +193,7 @@ locales:
       de: "немецкий"
       ru: "русский"
       fr: "французский"
+      es: "испанский"
     nav:
       hoodieverse: "Вселенная Hoodie"
       start: "Введение"
@@ -248,6 +252,7 @@ locales:
       de: "allemand"
       ru: "russe"
       fr: "français"
+      es: "espagnol"
     nav:
       hoodieverse: "Hoodieverse"
       start: "Démarrage"
@@ -298,3 +303,62 @@ locales:
       onboarding: "En voiture"
       irc: "Heures ouvrées IRC"
       workshop: "Atelier Hoodie"
+  es:
+    path: /es/
+    lang: "Idioma"
+    label:
+      en: "inglés"
+      de: "alemán"
+      ru: "ruso"
+      fr: "frances"
+      es: "español"
+    nav:
+      hoodieverse: "Hoodieverse"
+      start: "Empezar"
+      tutorials: "Tutoriales"
+      api: "API"
+      plugins: "Extensiones"
+      deployment: "Despliegue"
+      community: "Comunidad"
+    menu:
+      start: "Ponerse en marcha"
+      next: "Siguiente capítulo"
+      recipes: "Receta"
+    menuverse:
+      welcome: "Bienvenido a Hoodie"
+      concepts: "Conceptos de Hoodie"
+      requirements: "Requerimientos"
+      works: "Como function Hoodie"
+      glossary: "Glosario"
+      next: "Empezar"
+    menustart:
+      installation: "Instalacion"
+      started : "Comenzar con Hoodie - parte 1"
+      next: "Tutoriales"
+    menututorials:
+      started : "Comenzar con Hoodie - parte 2"
+      timetracker: "Gestion del tiempo"
+      next: "API"
+    menuapi:
+      hoodie : "hoodie"
+      account: "cuenta"
+      store : "tienda"
+      task: "tarea"
+      email: "email"
+      global: "compartir globalmente"
+      next: "Extensiones y despliegue"
+    menuplugins:
+      intro: "Introduccion"
+      build: "Desarrollar su extensión"
+      api: "La API de las extensiones"
+      list: "Listado en npm"
+      next: "Despliegue"
+    menudeploy:
+      intro: "Introduccion"
+      unix: "Unix / Linux"
+      next: "Comunidad"
+    menucommunity:
+      intro: "Nosotros somos una comunidad"
+      onboarding: "Formar parte"
+      irc: "Horas disponibles en IRC"
+      workshop: "Taller Hoodie"
